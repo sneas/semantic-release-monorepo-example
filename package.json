@@ -1,0 +1,13 @@
+{
+  "name": "semantic-release-monorepo-example",
+  "version": "0.0.0",
+  "repository": "git@github.com:sneas/semantic-release-monorepo-example.git",
+  "author": "Dima Snisarenko <snisarenkodima@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
