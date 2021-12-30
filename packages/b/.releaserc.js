@@ -1,6 +1,5 @@
 module.exports = {
   ci: false,
-  extends: 'semantic-release-monorepo',
   branches: ['main'],
   plugins: [
     [

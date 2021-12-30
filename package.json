@@ -12,7 +12,6 @@
   },
   "devDependencies": {
     "@semantic-release/git": "^10.0.1",
-    "semantic-release": "^18.0.1",
-    "semantic-release-monorepo": "^7.0.5"
+    "multi-semantic-release": "^2.11.0"
   }
 }
