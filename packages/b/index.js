@@ -1,3 +1,3 @@
 const { a } = require('@namespace/a');
 
-console.log('Project a:', {a});
+console.log('project a:', {a});
