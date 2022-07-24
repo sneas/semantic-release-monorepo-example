@@ -1,6 +1,6 @@
 {
   "name": "@namespace/a",
-  "version": "0.0.0-auto",
+  "version": "2.0.0",
   "main": "index.js",
   "license": "MIT"
 }
