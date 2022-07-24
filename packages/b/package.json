@@ -1,9 +1,6 @@
 {
   "name": "@namespace/b",
-  "version": "3.0.0",
+  "version": "0.0.0-auto",
   "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "@namespace/a": "2.3.0"
-  }
+  "license": "MIT"
 }

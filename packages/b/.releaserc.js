@@ -1,4 +1,5 @@
 module.exports = {
+  extends: "semantic-release-monorepo",
   ci: false,
   branches: ['main'],
   plugins: [
@@ -21,7 +22,7 @@ module.exports = {
       {
         assets: ['package.json'],
         message:
-          'chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
+          'chore(release-b): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
       },
     ]
   ],
